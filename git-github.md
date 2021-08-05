@@ -2,7 +2,6 @@
 
 ### Todo's list
 
-- [ ]  Enable 2FA on Samsung and iPhone August 5, 2021
 - [ ]  
 
 ---

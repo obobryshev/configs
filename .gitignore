@@ -1,3 +1,4 @@
 .DS_Store
 .project
 *.pyc
+configs_venv
